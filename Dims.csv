@@ -1,0 +1,20 @@
+﻿ID,Feature,Supress,Value,Units,Color
+V,ViewPlane,,Isometric,,
+T,Tool,,,-,1
+T-1,Tool Length1,-,0.2032,m,
+T-2,Tool Length2,-,0.2032,m,
+T-3,Tool Thickness1,-,0.0254,m,
+T-4,Tool Thickness2,-,0.0254,m,
+T-5,Tool Radius1,-,0.0254,m,
+T-6,Tool Depth1,-,0.01,m,
+T-7,Tool SurfaceAngle1,-,90,Degrees,
+P,Part,,-,-,0
+P-1,Part Length1,-,0.1524,m,
+P-2,Part Length2,-,0.1524,m,
+P-3,Part Thickness,-,0.00635,m,
+P-4,Part Depth1,-,0.01,m,
+P-5,Part Offset,-,0,m,
+B,Bag,X,,,0
+B-1,Bag Pleat1,-,0,m,
+B-2,Bag Pleat2,-,0,m,
+B-3,Bag Pleat3,-,0,m,
